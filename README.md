@@ -5,11 +5,11 @@
 - That’s the problem that we’ll solve in this assignment. You’ll use training.txt to learn which words are positive and which are negative.
 - The file displayed below contains two pieces of data on each line: the positivity rating and the sentence it is for. 
 
-$1 You could hate it for the same reason .
-$4 The performances are an absolute joy .
-$3 I still like Moonlight Mile , better judgment be damned .
-$3 a bilingual charmer , just like the woman who inspired it
-$1 As inept as big-screen remakes of The Avengers and The Wild Wild West .
-$2 It 's everything you 'd expect -- but nothing more .
-$4 Best indie of the year , so far .
-$1 It 's like going to a house party and watching the host defend himself against a frothing ex-girlfriend .
+-- 1 You could hate it for the same reason .
+-- 4 The performances are an absolute joy .
+-- 3 I still like Moonlight Mile , better judgment be damned .
+-- 3 a bilingual charmer , just like the woman who inspired it
+-- 1 As inept as big-screen remakes of The Avengers and The Wild Wild West .
+-- 2 It 's everything you 'd expect -- but nothing more .
+-- 4 Best indie of the year , so far .
+-- 1 It 's like going to a house party and watching the host defend himself against a frothing ex-girlfriend .
