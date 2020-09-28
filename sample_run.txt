@@ -1,0 +1,99 @@
+Learning data file name? training.txt
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 1
+which word? cat
+score = 3.17
+cat is positive
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: caaaaaat
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 1
+which word? caaaaat
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 1
+which word? dog
+score = 1.6
+dog is negative
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 2
+file name? cat.txt
+score = 2.44
+my cat is the best
+ is positive
+Am I right (yes/no)? yes
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 3
+file name? cat.txt
+Maximum score is 3.1666666666666665 for cat
+Minimum score is 2.0260047281323876 for is
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 1
+which word? cat
+score = 3.17
+cat is positive
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 2
+file name? cat.txt
+score = 2.44
+my cat is the best
+ is positive
+Am I right (yes/no)? no
+What score should this sentence have (0 - 4 where 4 is the most positive)? 4
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 1
+which word? cat
+score = 3.29
+cat is positive
+
+What would you like to do?
+1: Get the score of a word
+2: Get the average score of words in a file 
+3: Find the highest / lowest scoring words in a file
+4: Exit the program
+Enter a number 1 – 4: 4
+
